@@ -1,6 +1,6 @@
 # DOCX-to-Markdown & Markdown to DOCX Converter
 <img src="./images/icon.png" align="right" alt="logo"/>
-
+Todo: update using https://github.com/microsoft/markitdown
 Automatic conversion between DOCX/DOC and Markdown formats.
 
 ### Workflows
